@@ -5,12 +5,12 @@ This project demonstrates a clean code structure, reusable React components, and
 
 ---
 
-## 🚀 Features
-- ⚛️ Built with **React 18**
-- ⚡ Blazing fast development using **Vite**
-- 🎨 Styled with **Tailwind CSS 3**
-- 📱 Fully responsive UI
-- ♻️ Reusable component structure
+##  Features
+-  Built with **React 18**
+-  Blazing fast development using **Vite**
+-  Styled with **Tailwind CSS 3**
+-  Fully responsive UI
+-  Reusable component structure
 
 ---
 
@@ -35,3 +35,14 @@ npm run dev
 
 ![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
 
+
+
+
+## Live Demo
+
+[View Live Project](https://hoobank-psi-ruby.vercel.app/)
+
+## Author
+
+[Sumit Kushwaha](https://sumit-kushwaha.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/sumit-kushwaha-83b608357/)
