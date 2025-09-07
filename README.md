@@ -44,5 +44,6 @@ npm run dev
 
 ## Author
 
-[Sumit Kushwaha](https://sumit-kushwaha.vercel.app/)
-[LinkedIn](https://www.linkedin.com/in/sumit-kushwaha-83b608357/)
+- [Sumit Kushwaha](https://sumit-kushwaha.vercel.app/)<br>
+
+- [LinkedIn](https://www.linkedin.com/in/sumit-kushwaha-83b608357/)
